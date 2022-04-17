@@ -238,5 +238,5 @@ void preorder(AVLNode *root) {
 int main(){
     AVL avlku;
     avl_init(&avlku);
-	
+	char str[MAX];
 }
